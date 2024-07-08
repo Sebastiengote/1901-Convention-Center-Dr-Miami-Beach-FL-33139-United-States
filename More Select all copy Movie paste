@@ -89,7 +89,7 @@ wireless
 shade ac
 sid
 alt ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890
-all
+all day
 ai
 mirror
 change
@@ -133,3 +133,4 @@ nascar
 free
 newyork
 hersheys
+parent
